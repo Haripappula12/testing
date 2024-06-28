@@ -8,4 +8,5 @@ class Program
     {
         Console.WriteLine("Welcome to hari");
     }
+    bye
 }
